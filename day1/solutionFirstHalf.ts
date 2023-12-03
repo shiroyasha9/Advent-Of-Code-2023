@@ -23,4 +23,4 @@ for (let inputWord of splittedInput) {
   }
 }
 
-console.log(sum);
+console.log(sum); // 55108
